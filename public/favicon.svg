@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="AVR">
+  <rect width="512" height="512" fill="#050908"/>
+  <rect
+    x="88"
+    y="58"
+    width="336"
+    height="356"
+    rx="118"
+    fill="#121a14"
+    stroke="rgba(255,255,255,0.1)"
+    stroke-width="8"
+  />
+  <rect
+    x="78"
+    y="48"
+    width="356"
+    height="376"
+    rx="128"
+    fill="none"
+    stroke="rgba(132,255,88,0.14)"
+    stroke-width="8"
+  />
+  <circle cx="172" cy="146" r="27" fill="#84ff58"/>
+  <rect x="264" y="140" width="92" height="7" rx="3.5" fill="rgba(132,255,88,0.55)"/>
+  <circle cx="360" cy="325" r="26" fill="#ffd84d"/>
+  <text
+    x="256"
+    y="276"
+    fill="#ffffff"
+    font-family="Manrope, Inter, Avenir, Helvetica, Arial, sans-serif"
+    font-size="104"
+    font-weight="650"
+    text-anchor="middle"
+    dominant-baseline="middle"
+  >AVR</text>
+</svg>
