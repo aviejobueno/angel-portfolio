@@ -515,46 +515,46 @@ export const portfolioContent = {
       ],
     },
     pymes: {
-      eyebrow: "For SMEs",
-      title: "Custom RAG in .NET applications that turn company knowledge into daily productivity.",
+      eyebrow: "AI for SMEs",
+      title: "A private AI assistant that answers with your company's real knowledge.",
       description:
-        "Small and medium-sized businesses often have valuable knowledge spread across PDFs, procedures, emails, shared drives and internal documents. A tailored Semantic Kernel and RAG in .NET application can make that knowledge searchable, conversational and useful for everyday operations.",
+        "Most SMEs do not need another generic chatbot. They need a private assistant built on their business documentation, with semantic search, answers backed by sources, permission-aware access, traceability and the option to integrate with internal processes.",
       specialist:
-        "Specialist in RAG applications with Semantic Kernel, .NET backend architecture and AI-assisted workflows.",
-      primaryCta: { label: "Discuss a RAG use case", href: "#contact" },
-      secondaryCta: { label: "View AI skills", href: "#tech-stack" },
-      outcomesTitle: "What productivity can improve",
+        "Delivered as a focused pilot or a production-ready .NET solution, from document audit and secure ingestion to integrations, quality evaluation and ongoing support.",
+      primaryCta: { label: "Explore a pilot project", href: "#contact" },
+      secondaryCta: { label: "See technical stack", href: "#tech-stack" },
+      outcomesTitle: "Business problems it reduces",
       outcomes: [
         {
-          value: "Faster answers",
-          label: "Teams spend less time searching through documents, procedures and scattered folders.",
+          value: "Less time lost searching",
+          label: "Teams find the right procedure, file or answer without digging through folders, emails and outdated copies.",
         },
         {
-          value: "Reusable knowledge",
-          label: "Internal know-how becomes accessible to sales, operations, support and management.",
+          value: "More consistent answers",
+          label: "Sales, operations and support can respond using the same approved information instead of personal memory.",
         },
         {
-          value: "Less manual work",
-          label: "Repetitive questions, document lookups and process checks can be assisted by AI.",
+          value: "AI with control",
+          label: "Answers are grounded in selected company sources, with a backend designed for traceability and business rules.",
         },
       ],
-      useCasesTitle: "High-value RAG use cases for SMEs",
+      useCasesTitle: "Practical RAG use cases for SMEs",
       useCases: [
         {
-          title: "Process assistant",
-          text: "A private assistant that answers questions using your internal procedures, manuals and operational documentation.",
+          title: "Sales and support",
+          text: "Answer product, pricing, warranty, delivery or client questions using approved commercial and operational documentation.",
+        },
+        {
+          title: "Operations assistant",
+          text: "Guide recurring tasks, check procedures and reduce interruptions when teams need to know how something is done.",
         },
         {
           title: "Document intelligence",
-          text: "Search and summarize contracts, technical documents, policies, product sheets or client documentation.",
+          text: "Search, compare and summarize contracts, policies, technical files, product sheets or client documentation.",
         },
         {
-          title: "Team onboarding",
-          text: "Help new employees understand internal processes faster without depending on constant interruptions.",
-        },
-        {
-          title: "Operational support",
-          text: "Guide teams through recurring decisions with answers grounded in approved business documentation.",
+          title: "Onboarding and retention",
+          text: "Help new employees learn internal processes faster and preserve critical knowledge when experienced people are unavailable.",
         },
       ],
     },
@@ -1145,46 +1145,46 @@ export const portfolioContent = {
       ],
     },
     pymes: {
-      eyebrow: "Para Pymes",
-      title: "Aplicativos RAG en .NET a medida para convertir conocimiento interno en productividad diaria.",
+      eyebrow: "IA para Pymes",
+      title: "Un asistente privado de IA que responde con el conocimiento real de tu empresa.",
       description:
-        "Muchas Pymes tienen conocimiento valioso repartido entre PDFs, procedimientos, correos, carpetas compartidas y documentación interna. Una aplicación RAG en .NET con Semantic Kernel permite consultar ese conocimiento de forma conversacional, rápida y útil para la operativa diaria.",
+        "La mayoría de Pymes no necesitan otro chatbot genérico. Necesitan un asistente privado construido sobre su documentación empresarial, con búsqueda semántica, respuestas con fuentes, control de permisos, trazabilidad y posibilidad de integrarse con procesos internos.",
       specialist:
-        "Especialista en aplicativos RAG con Semantic Kernel, arquitectura backend .NET y workflows asistidos por IA.",
-      primaryCta: { label: "Plantear un caso RAG", href: "#contact" },
-      secondaryCta: { label: "Ver skills IA", href: "#tech-stack" },
-      outcomesTitle: "Qué productividad se puede ganar",
+        "Entregado como piloto acotado o solución .NET lista para producción, desde auditoría documental e ingesta segura hasta integraciones, evaluación de calidad y soporte continuo.",
+      primaryCta: { label: "Explorar un piloto", href: "#contact" },
+      secondaryCta: { label: "Ver stack técnico", href: "#tech-stack" },
+      outcomesTitle: "Problemas de negocio que reduce",
       outcomes: [
         {
-          value: "Respuestas más rápidas",
-          label: "El equipo invierte menos tiempo buscando información en documentos, procedimientos y carpetas dispersas.",
+          value: "Menos tiempo buscando",
+          label: "El equipo encuentra el procedimiento, archivo o respuesta correcta sin revisar carpetas, correos y copias desactualizadas.",
         },
         {
-          value: "Conocimiento reutilizable",
-          label: "El know-how interno queda accesible para ventas, operaciones, soporte y dirección.",
+          value: "Respuestas más consistentes",
+          label: "Ventas, operaciones y soporte pueden responder con la misma información aprobada, no solo con memoria personal.",
         },
         {
-          value: "Menos trabajo manual",
-          label: "Preguntas repetitivas, búsquedas documentales y comprobaciones de proceso pueden apoyarse con IA.",
+          value: "IA con control",
+          label: "Las respuestas se basan en fuentes seleccionadas de la empresa, con un backend pensado para trazabilidad y reglas de negocio.",
         },
       ],
-      useCasesTitle: "Casos RAG de alto valor para Pymes",
+      useCasesTitle: "Casos RAG prácticos para Pymes",
       useCases: [
         {
-          title: "Asistente de procesos",
-          text: "Un asistente privado que responde usando procedimientos, manuales y documentación operativa interna.",
+          title: "Ventas y soporte",
+          text: "Responder dudas de producto, precios, garantías, entregas o clientes usando documentación comercial y operativa aprobada.",
+        },
+        {
+          title: "Asistente operativo",
+          text: "Guiar tareas recurrentes, comprobar procedimientos y reducir interrupciones cuando el equipo necesita saber cómo se hace algo.",
         },
         {
           title: "Inteligencia documental",
-          text: "Buscar y resumir contratos, documentos técnicos, políticas, fichas de producto o documentación de clientes.",
+          text: "Buscar, comparar y resumir contratos, políticas, documentos técnicos, fichas de producto o documentación de clientes.",
         },
         {
-          title: "Onboarding de equipos",
-          text: "Ayudar a nuevas incorporaciones a entender procesos internos sin depender de interrupciones constantes.",
-        },
-        {
-          title: "Soporte operativo",
-          text: "Guiar decisiones recurrentes con respuestas basadas en documentación aprobada por la empresa.",
+          title: "Onboarding y retención",
+          text: "Ayudar a nuevas incorporaciones a aprender procesos internos más rápido y conservar conocimiento crítico cuando falta personal experto.",
         },
       ],
     },
